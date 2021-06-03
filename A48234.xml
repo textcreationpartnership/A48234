@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to the Lord Chancellour, exposing to him the sentiments of the people, with some pertinent advice in the conclusion</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48234</idno><idno type="EEBO-CITATION">12392511</idno>
+  <idno type="VID">61016</idno>
+  <idno type="EEBO-PROQUEST">2240970764</idno>
+  
+            <idno type="STC">Wing L1740</idno>
+            <idno type="STC">ESTC R14980</idno>
+            <idno type="OCLC">12392511</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 766:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to the Lord Chancellour, exposing to him the sentiments of the people, with some pertinent advice in the conclusion</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jeffreys, George Jeffreys, --  Baron, 1644 or 5-1689.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="verse_letter">
+            <pb n="1" facs="tcp:61016:1"/>
+            <head>A LETTER TO THE <hi>Lord Chancellour,</hi> EXPOSING To him the Sentiments of the People, with some Pertinent ADVICE in the Conclusion.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <lg>
+               <lg>
+                  <l>I'D Praise your Lordship, but you've had your share</l>
+                  <l>Of that before, if not too much by far,</l>
+                  <l>And now a nobler field for Curses are:</l>
+               </lg>
+               <l>Yet I'le not Curse, but leave you to the crowd,</l>
+               <l>Who never baulk their rage, but speak aloud;</l>
+               <l>In all the Lab'rynths of your Crimes they'l track ye,</l>
+               <l>Worse than ten thousand Furies they'l attack ye.</l>
+               <lg>
+                  <l>We talk not here of <hi>Penal Laws</hi> or <hi>Test,</hi>
+                  </l>
+                  <l>Nor how you King of Terrors in the <hi>West,</hi>
+                  </l>
+                  <l>With more than humane Cruelty opprest</l>
+                  <l>Those whose Shades now stab through your anxious Breast:</l>
+               </lg>
+               <l>To these I leave you, each with brandish'd Dart</l>
+               <l>Throughly revenge his Quarrel at your Heart.</l>
+               <l>For me, I'le only let your Lordship see</l>
+               <l>How they resent your chang'd Felicitie.</l>
+               <l>Now may you hear the People as they scowre</l>
+               <l>Along, not fear to Damn the Chancellour:</l>
+               <l>The Women too, and all the tender Crew</l>
+               <l>That us'd to pity all, now laugh at you.</l>
+               <l>The very Boys, how do they grin and prate,</l>
+               <l>And giggle at the Bills upon your Gate!</l>
+               <l>Nay rather than be frustrate of their hope,</l>
+               <l>The Women will contribute for a Rope;</l>
+               <l>And those fine Locks that no bless'd Spark might touch,</l>
+               <l>On this account <hi>Ketch</hi> may, they love my Lord so much.</l>
+               <l>Oh for Dispensing now! ah! now's the time!</l>
+               <l>Your Eloquence will hardly blanch the Crime;</l>
+               <l>And all the turnings of your <hi>Proteus</hi>-wit,</l>
+               <l>With all your little tricks, won't help a bit;</l>
+               <l>Ev'n that fine Tongue in which your Lordships trust is,</l>
+               <l>Now won't, altho' sometimes it baffled Justice:</l>
+               <l>No <hi>Ignoramus</hi> Juries shall perplex ye,</l>
+               <l>But with their <hi>Billa vera's</hi> now they'l vex ye.</l>
+               <pb n="2" facs="tcp:61016:2"/>
+               <l>From their dire Claws no hiding hole you find,</l>
+               <l>They speak their own now, not a Parties mind:</l>
+               <lg>
+                  <l>Not now as heretofore, when on the Bench</l>
+                  <l>Flattery and Dawbing had such Influence,</l>
+                  <l>And <hi>Jefferys</hi> for a Gift would with the Laws dispence.</l>
+               </lg>
+               <l>But granting all our Laws be out of joynt,</l>
+               <l>Why yet they do not fear to gain the point:</l>
+               <lg>
+                  <l>A High Commission may the Cause decide,</l>
+                  <l>Your Lordship by a Butcher may be try'd,</l>
+                  <l>When by Commission he is dignify'd,</l>
+                  <l>His Power You must not doubt if He be satisfy'd.</l>
+               </lg>
+               <l>If this ben't Law, (though we've a President,)</l>
+               <l>Your may appeal to the next Parliament:</l>
+               <l>But these are such damn'd Sticklers for the Laws,</l>
+               <l>That it is five to one you lose the Cause.</l>
+               <l>In troth, my Lord, the Case is very sad,</l>
+               <l>Enough to make a wiser Man stark mad.</l>
+               <l>But I'le advise your Lordship what to do,</l>
+               <l>'Tis plain that they their Madness will pursue.</l>
+               <l>They hope to see you soon advanc'd on high,</l>
+               <l>Most sweetly dangling 'twixt the Earth and Sky;</l>
+               <l>See reaking Balsom from your Breeches dropping,</l>
+               <l>And greedy Handkerchiefs the Relick sopping;</l>
+               <l>Whilst on their heads a Chrystal shower descends,</l>
+               <l>And all their Shoulders o're it self extends.</l>
+               <lg>
+                  <l>This 'tis they mean, 'tis this they wou'd have done,</l>
+                  <l>But I wou'd chouse 'em e'ry Mothers Son,</l>
+                  <l>Troth I'd e'ne hang my self, 'tis quickly done.</l>
+               </lg>
+               <l>If yo've no halter, never make a pother,</l>
+               <l>Take but a garter, one's as good as t'oher:</l>
+               <l>For Lord! should such a Man as you submit</l>
+               <l>To be the publick laughter of each grinning Cit!</l>
+               <l>Else my Lord take a Razor, never fear,</l>
+               <l>And cut your Lordships throat from Ear to Ear.</l>
+               <l>'Tis feasible enough, you know who did it,</l>
+               <l>And you are valiant, Sir, what need you dread it?</l>
+               <l>Cut both the Jug'lar Veins tho' if you can,</l>
+               <l>Else they'll say <hi>Essex</hi> was the stouter Man.</l>
+            </lg>
+            <closer>
+               <dateline>From the little House over against <hi>Tyburn,</hi> where the People are almost dead with Expectation of you.</dateline>
+               <signed>I am your Lordships, in any thing of this Nature.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
